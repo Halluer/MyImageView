@@ -15,5 +15,5 @@ public class MainActivity extends AppCompatActivity {
 
         ivDay2 = (ImageView) findViewById(R.id.imageView2);
         ivDay2.setImageResource(R.drawable.day2);
-    }
+    }//test
 }
